@@ -1,4 +1,4 @@
-# perimelis - TCP Bidirectional Bandwidth Test
+# mutantmonkey - TCP Bidirectional Bandwidth Test
 
 <br/>
 It is a bidirectional (full-duplex) bandwidth test. <br/>
